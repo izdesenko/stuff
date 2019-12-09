@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "test app",
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^12.12.15",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.7.2"
+  },
+  "scripts": {
+    "go": "ts-node limit_check.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
